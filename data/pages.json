@@ -1,0 +1,38 @@
+{
+    "about": {
+      "title": "About Us",
+      "sections": [
+        {
+          "type": "hero",
+          "title": "Welcome to About Us",
+          "subtitle": "We are a modern company."
+        },
+        {
+          "type": "text",
+          "heading": "Our Mission",
+          "content": "We aim to build the best apps."
+        }
+      ]
+    },
+    "services": {
+      "title": "Our Services",
+      "sections": [
+        {
+          "type": "hero",
+          "title": "Our Services",
+          "subtitle": "See what we offer."
+        },
+        {
+          "type": "text",
+          "heading": "Web Development",
+          "content": "We build professional websites."
+        },
+        {
+          "type": "hero2",
+          "title": "Our Services 2",  
+          "subtitle": "See what we offer 2."
+        }
+      ]
+    }
+  }
+  
